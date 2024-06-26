@@ -985,8 +985,8 @@ footer span {
 
     .container1 input[type="text"] {
         width: 300px;
-        border-top-left-radius: 0;
-        border-bottom-left-radius: 0;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
     }
 
     .container2 {
@@ -1227,8 +1227,8 @@ footer span {
         width: 150px;
         font-size: 0.8rem;
         padding: 10px;
-        border-top-left-radius: 0;
-        border-bottom-left-radius: 0;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
     }
 
     .container1 button {
