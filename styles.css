@@ -60,7 +60,7 @@
     padding: 15px 8px 15px 8px;
 }
 
-.logo .active {
+.logo .active{
     background-color: #FF4800;
 }
 
@@ -1163,10 +1163,11 @@ footer span {
     }
 
     .container10 {
-        flex-direction: column;
+        flex-direction: row;
         text-align: center;
         align-items: center;
         justify-content: center;
+        padding: 15px 28px;
     }
 
     .container10 h1 {
@@ -1178,7 +1179,7 @@ footer span {
     }
 
     .news {
-        width: 350px;
+        width: 320px;
     }
 
     .news input[type="text"] {
@@ -1322,6 +1323,7 @@ footer span {
 
     .testimonials .test-1, .test-2, .test-3 {
         width: 300px;
+        height: auto;
     }
 
     .container9 {
@@ -1380,4 +1382,8 @@ footer span {
      .test-1 .img div, .test-2 .img div, .test-3 .img div {
         margin-top: 30px;
      }
+
+    .container10 {
+        flex-direction: column;
+    }
 }
