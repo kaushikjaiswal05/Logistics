@@ -32,7 +32,6 @@ This project is a static website for a logistics firm, built using **HTML** and 
 - **Responsive Design**: The webpage adapts seamlessly to all screen sizes, ensuring a consistent experience across mobile, tablet, and desktop devices.
 - **Simple CSS Animation**: Adds subtle visual effects to make the site more engaging without overwhelming the user.
 - **Clean Layout**: A straightforward and professional layout that highlights the firm's services and information clearly.
-- **User-Friendly Navigation**: Simple navigation with a clear structure, allowing visitors to easily find the information they need.
 
 ---
 
