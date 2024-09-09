@@ -2,7 +2,7 @@
 
 # This is a fully responsive static webpage for a logistics firm that includes a simple animation.
 
-##Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
