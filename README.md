@@ -9,18 +9,6 @@ Check out the live version of the project here:
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-
----
-
 ## Overview
 
 This project is a static website for a logistics firm, built using **HTML** and **CSS**. The webpage is fully responsive, making it adaptable to various screen sizes, from mobile devices to large desktop monitors. It also features simple animations that enhance the user experience, giving the webpage a dynamic feel while keeping it lightweight.
